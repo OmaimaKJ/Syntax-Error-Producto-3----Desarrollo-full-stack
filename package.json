@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-producto3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.10.1",
+    "mongodb": "^6.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
