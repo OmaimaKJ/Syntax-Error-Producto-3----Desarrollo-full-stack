@@ -7,6 +7,5 @@ class Usuario {
     }
   }
   
-  // Exportamos con CommonJS
   module.exports = Usuario;
   
