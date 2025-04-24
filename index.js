@@ -21,7 +21,7 @@ const voluntariados = [];
 // CONEXIÓN A MONGODB
 // ---------------------
 const { MongoClient, ObjectId } = require('mongodb');
-const uri = 'mongodb://localhost:27017'; // Cambiar si tienes otra configuración
+const uri = 'mongodb://localhost:27017';
 const client = new MongoClient(uri);
 let db;
 
